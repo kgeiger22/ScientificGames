@@ -1,0 +1,38 @@
+BEGIN TESTS
+
+Testing New Dataset Size 5
+1951-1972
+1972-1976
+1906-1942
+1961-1974
+1915-1924
+Best Year: 1915, Population: 2
+
+Testing New Dataset Size 10
+1900-1955
+1931-1981
+1920-1972
+1951-1972
+1924-1965
+1904-1906
+1901-1949
+1902-1940
+1900-1986
+1964-1967
+Best Year: 1931, Population: 7
+
+Testing Dataset From File Size 10
+Best Year: 1937, Population: 5
+
+Testing Dataset From File Size 100
+Best Year: 1947, Population: 53
+
+Testing Dataset From File Size 1000
+Best Year: 1953, Population: 496
+
+Testing Dataset From File Size 100000
+Best Year: 1949, Population: 50517
+
+
+Press Any Key to Close...
+s
